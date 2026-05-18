@@ -1,2 +1,2 @@
 # AutomatedApplicant
-This is software designed to automate the job application proccess on web services such as indeed 
+This is a simple tool designed to automate client personal information upload and application proccess involved invovled in web based job applications.
